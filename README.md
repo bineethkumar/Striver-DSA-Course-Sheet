@@ -324,4 +324,105 @@
 | Sudoko Solver | |
 | Expression Add Operators | |
 
+## STEP 8 [BIT MANIPULATION]
+### STEP 8.1 [LEARN BIT MANIPULATION]
+| Topic | My Contribution |
+| :---: | :---: |
+| Introduction to Bit Manipulation [Theory] | |
+| Check if the i-th bit is set or not	| |
+| Check if a number is odd or not	| |
+| Check if a number is power of 2 or not | |
+| Count the number of set bits | |
+| Set/Unset the rightmost unset bit | |
+| Swap two numbers | |
+| Divide two integers without using multiplication, division and mod operator | |
+
+### STEP 8.2 [INTERVIEW PROBLEMS]
+| Topic | My Contribution |
+| :---: | :---: |
+| Count number of bits to be flipped to convert A to B | |
+| Find the number that appears odd number of times | |
+| Power Set | |
+| Find xor of numbers from L to R | |
+| Find the two numbers appearing odd number of times | |
+
+### STEP 8.3 [ADVANCED MATHS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Print Prime Factors of a Number | |
+| All Divisors of a Number | |
+| Sieve of Eratosthenes | |
+| Find Prime Factorisation of a Number using Sieve | |
+| Power(n, x) | |
+
+## STEP 9 [STACK AND QUEUE]
+### STEP 9.1 [LEARNING]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Implement Stack using Arrays | |
+| Implement Queue using Arrays | |
+| Implement Stack using Queue | |
+| Implement Queue using Stack | |
+| Implement stack using Linkedlist | |
+| Implement queue using Linkedlist | |
+| Check for balanced paranthesis | |
+| Implement Min Stack | |
+
+### STEP 9.2 [PREFIX, INFIX, POSTFIX CONVERSION PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Infix to Postfix Conversion using Stack | |
+| Prefix to Infix Conversion | |
+| Prefix to Postfix Conversion | |
+| Postfix to Prefix Conversion | |
+| Postfix to Infix | |
+| Convert Infix To Prefix Notation | |
+
+### STEP 9.3 [MONOTONIC STACK/QUEUE PROBLEMS (VVV IMP)]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Next Greater Element | |
+| Next Greater Element 2 | |
+| Next Smaller Element| |
+| Number of NGEs to the right | |
+| Trapping Rainwater | |
+| Sum of subarray minimum | |
+| Stock span problem | |
+| Asteroid Collision | |
+| Sum of subarray ranges | |
+|	Remove k Digits | |
+| Largest rectangle in a histogram | |
+| Maximal Rectangles | |
+
+### STEP 9.4 [IMPLEMENTATION PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Sliding Window maximum | |
+| Stock Span Problem | |
+| The Celebrity Problem | |
+| Rotten Oranges | |
+| LRU cache (IMPORTANT) | |
+| LFU cache | |
+
+## STEP 10 [SLIDING WINDOW AND TWO POINTER COMBINED PROBLEMS]
+### STEP 10.1 [MEDIUM PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Longest Substring Without Repeating Characters | |
+| Max Consecutive Ones III | |
+| Fruit Into Baskets | |
+| Longest repeating character replacement| |
+| Binary subarray with sum | |
+| Count number of nice subarrays | |
+| Number of substring containing all three characters | |
+| Maximum point you can obtain from cards | |
+
+### STEP 10.2 [HARD PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Longest Substring with At Most K Distinct Characters | |
+| Subarray with k different integers | |
+| Minimum Window Substring | |
+| Minimum Window Subsequence | |
+
 
