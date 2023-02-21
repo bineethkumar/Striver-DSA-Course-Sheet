@@ -425,4 +425,337 @@
 | Minimum Window Substring | |
 | Minimum Window Subsequence | |
 
+## STEP 11 [HEAPS]
+### STEP 11.1 [LEARNING]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Introduction to Priority Queues using Binary Heaps | |
+| Min Heap and Max Heap Implementation | |
+| Check if an array represents a min-heap or not | |
+| Convert min Heap to max Heap | |
+
+### STEP 11.2 [MEDIUM PROBLEMS]
+| Kth largest element in an array(use priority queue) | |
+| Kth smallest element in an array(use priority queue) | |
+| Sort K sorted array | |
+| Merge M sorted Lists | |
+| Replace each array element by its corresponding rank | |
+| Task Scheduler | |
+| Hands of Straights | |
+
+### STEP 11.3 [HARD PROBLEMS]
+| Design twitter | |
+| Connect `n` ropes with minimal cost | |
+|	Kth largest element in a stream of running integers | |
+| Maximum Sum Combination | |
+| Find Median from Data Stream | |
+| K most frequent elements | |
+
+## STEP 12 [GREEDY ALGORITHMS]
+### STEP 12.1 [EASY PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Assign Cookies | |
+| Fractional Knapsack Problem | |
+| Greedy algorithm to find minimum number of coins | |
+| Lemonade Change | |
+| Valid Paranthesis Checker | |
+
+### STEP 12.2 [MEDIUM/HARD PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| N meetings in one room | |
+| Jump Game | |
+|	Jump Game 2 | |
+| Minimum number of platforms required for a railway | |
+| Job sequencing Problem | |
+|	Candy | |
+|	Program for Shortest Job First (or SJF) CPU Scheduling | |
+| Program for Least Recently Used (LRU) Page Replacement Algorithm | |
+| Insert Interval | |
+| Merge Intervals | |
+| Non-overlapping Intervals | |
+
+## STEP 13 [BINARY TREES]
+### STEP 13.1 [TRAVERSALS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Introduction to Trees | |
+| Binary Tree Representation in Java | |
+|	Binary Tree Traversals in Binary Tree  | |
+| Preorder Traversal of Binary Tree | |
+| Inorder Traversal of Binary Tree | |
+| Post-order Traversal of Binary Tree | |
+|	Level order Traversal / Level order traversal in spiral form | |
+| Iterative Preorder Traversal of Binary Tree | |
+| Iterative Inorder Traversal of Binary Tree | |
+| Post-order Traversal of Binary Tree using 2 stack | |
+|	Post-order Traversal of Binary Tree using 1 stack | |
+| Preorder, Inorder, and Postorder Traversal in one Traversal | |
+
+### STEP 13.2 [MEDIUM PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Height of a Binary Tree | |
+| Check if the Binary tree is height-balanced or not | |
+| Diameter of Binary Tree | |
+| Maximum path sum | |
+| Check if two trees are identical or not | |
+| Zig Zag Traversal of Binary Tree | |
+| Boundary Traversal of Binary Tree | |
+| Vertical Order Traversal of Binary Tree | |
+| Top View of Binary Tree | |
+| Bottom View of Binary Tree | |
+| Right/Left View of Binary Tree | |
+| Symmetric Binary Tree | |
+
+### STEP 13.3 [HARD PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Root to Node Path in Binary Tree | |
+|	LCA in Binary Tree | |
+| Maximum width of a Binary Tree | |
+| Check for Children Sum Property | |
+| Print all the Nodes at a distance of K in a Binary Tree | |
+|	Minimum time taken to BURN the Binary Tree from a Node | |
+| Count total Nodes in a COMPLETE Binary Tree | |
+| Requirements needed to construct a Unique Binary Tree(Theory) | |
+| Construct Binary Tree from inorder and preorder | |
+| Construct the Binary Tree from Postorder and Inorder Traversal | |
+| Serialize and deserialize Binary Tree | |
+| Morris Preorder Traversal of a Binary Tree | |
+| Morris Inorder Traversal of a Binary Tree| |
+| Flatten Binary Tree to LinkedList | |
+
+## STEP 14 [BINARY SEARCH TREES]
+### STEP 14.1 [CONCEPTS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Introduction to Binary Search Tree | |
+| Search in a Binary Search Tree | |
+|	Find Min/Max in BST | |
+
+### STEP 14.2 [PRACTICE PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Ceil in a Binary Search Tree| |
+| Floor in a Binary Search Tree| |
+| Insert a given Node in Binary Search Tree | |
+| Delete a Node in Binary Search Tree | |
+| Find K-th smallest/largest element in BST | |
+| Check if a tree is a BST or BT | |
+| LCA in Binary Search Tree | |
+| Construct a BST from a preorder traversal | |
+| Inorder Successor/Predecessor in BST | |
+| Merge 2 BST’s | |
+| Two Sum In BST(Check if there exists a pair with Sum K) | |
+| Recover BST(Correct BST with two nodes swapped) | |
+| Largest BST in Binary Tree | |
+
+## STEP 15 [GRAPHS]
+### STEP 15.1 [LEARNING]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Graph and Types | |
+| Graph Representation in Java | |
+| Connected Components (Logic Explanation) | |
+| BFS | |
+|	DFS | |
+
+### STEP 15.2 [PROBLEMS ON BFS/DFS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Number of provinces (leetcode) | |
+| Connected Components Problem in Matrix | |
+| Rotten Oranges | |
+| Flood fill | |
+| Cycle Detection in unirected Graph (bfs) | |
+| Cycle Detection in undirected Graph (dfs) | |
+| 0/1 Matrix (Bfs Problem) | |
+| Surrounded Regions (dfs) | |
+| Number of Enclaves (flood fill implementation – multisource) | |
+| Word ladder – 1 | |
+| Word ladder – 2 | |
+| Number of Distinct Islands (dfs multisource) | |
+| Bipartite Graph (DFS) | |
+| Cycle Detection in Directed Graph (DFS) | |
+
+### STEP 15.3 [TOPO SORT AND PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Topo Sort | |
+| Kahn’s Algorithm | |
+| Cycle Detection in Directed Graph (BFS) | |
+| Course Schedule – I | |
+| Course Schedule – II | |
+|	Find eventual safe states | |
+| Alien dictionary | |
+
+### STEP 15.4 [SHORTEST PATH ALGORITHMS AND PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Shortest Path in UG with unit weights | |
+| Shortest Path in DAG | |
+| Djisktra’s Algorithm | |
+| Why priority Queue is used in Djisktra’s Algorithm | |
+| Shortest path in a binary maze | |
+| Path with minimum effort | |
+| Cheapest flights within k stops | |
+| Network Delay time | |
+| Number of ways to arrive at destination | |
+| Minimum steps to reach end from start by performing multiplication and mod operations with array elements | |
+| Bellman Ford Algorithm | |
+| Floyd Warshal Algorithm | |
+|	Find the city with the smallest number of neighbors in a threshold distance | |
+
+### STEP 15.5 [MINIMUM SPANNING TREE / DISJOINT SET AND PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Minimum Spanning Tree | |
+| Prim’s Algorithm | |
+| Disjoint Set (Union by Rank) | |
+|	Disjoint Set (Union by Size) | |
+| Kruskal’s Algorithm | |
+| Number of operations to make network connected | |
+| Most stones removed with same rows or columns | |
+| Accounts merge | |
+|	Number of island II | |
+| Making a Large Island | |
+| Swim in rising water | |
+
+### STEP 15.6 [OTHER ALGORITHMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Bridges in Graph | |
+| Articulation Point | |
+| Kosaraju’s Algorithm | |
+
+## STEP 16 [DYNAMIC PROGRAMMING]
+### STEP 16.1 [INTRO TO DP]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Dynamic Programming Introduction | |
+
+### STEP 16.2 [1D DP]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Climbing Stars | |
+| Frog Jump(DP-3) | |
+| Frog Jump with k distances(DP-4) | |
+| Maximum sum of non-adjacent elements (DP 5) | |
+| House Robber (DP 6) | |
+
+### STEP 16.3 [2D/3D DP AND DP ON GRIDS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Ninja’s Training (DP 7) | |
+| Grid Unique Paths : DP on Grids (DP8) | |
+| Grid Unique Paths 2 (DP 9) | |
+| Minimum path sum in Grid (DP 10) | |
+| Minimum path sum in Triangular Grid (DP 11) | |
+| Minimum/Maximum Falling Path Sum (DP-12) | |
+| 3-d DP : Ninja and his friends (DP-13) | |
+
+### STEP 16.4 [DP ON SUBSEQUENCES]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Subset sum equal to target (DP- 14) | |
+| Partition Equal Subset Sum (DP- 15) | |
+| Partition Set Into 2 Subsets With Min Absolute Sum Diff (DP- 16) | |
+| Count Subsets with Sum K (DP – 17) | |
+| Count Partitions with Given Difference (DP – 18) | |
+| 0/1 Knapsack (DP – 19) | |
+| Minimum Coins (DP – 20) | |
+| Target Sum (DP – 21) | |
+| Coin Change 2 (DP – 22) | |
+| Unbounded Knapsack (DP – 23) | |
+| Rod Cutting Problem (DP – 24) | |
+
+### STEP 16.5 [DP ON STRINGS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Longest Common Subsequence (DP – 25) | |
+| Print Longest Common Subsequence (DP – 26) | |
+| Longest Common Substring (DP – 27) | |
+| Longest Palindromic Subsequence (DP-28) | |
+| Minimum insertions to make string palindrome (DP-29) | |
+| Minimum Insertions/Deletions to Convert String (DP- 30) | |
+| Shortest Common Supersequence (DP – 31)	| |
+| Distinct Subsequences (DP-32) | |
+| Edit Distance (DP-33) | |
+| Wildcard Matching (DP-34) | |
+
+### STEP 16.6 [DP ON STOCKS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Best Time to Buy and Sell Stock (DP-35) | |
+| Buy and Sell Stock – II (DP-36) | |
+| Buy and Sell Stocks - III (DP-37) | |
+| Buy and Stock Sell - IV (DP-38) | |
+| Buy and Sell Stocks With Cooldown (DP-39) | |
+| Buy and Sell Stocks With Transaction Fee (DP-40) | |
+
+### STEP 16.7 [DP ON LIS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Longest Increasing Subsequence (DP-41) | |
+| Printing Longest Increasing Subsequence (DP-42) | |
+|	Longest Increasing Subsequence (DP-43) | |
+| Largest Divisible Subset (DP-44) | |
+| Longest String Chain (DP-45) | |
+| Longest Bitonic Subsequence (DP-46)	| |
+| Number of Longest Increasing Subsequences (DP-47) | |
+
+### STEP 16.8 [MCM DP / PARTITION DP]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Matrix Chain Multiplication (DP-48) | |
+| Matrix Chain Multiplication (Bottom-Up) (DP-49) | |
+|	Minimum Cost to Cut the Stick (DP-50) | |
+| Burst Balloons (DP-51) | |
+| Evaluate Boolean Expression to True (DP-52) | |
+| Palindrome Partitioning – II (DP-53) | |
+| Partition Array for Maximum Sum (DP-54) | |
+
+### STEP 16.9 [DP ON SQUARES]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Maximum Rectangle Area with all 1’s (DP-55) | |
+| Count Square Submatrices with All Ones (DP-56) | |
+
+## STEP 17 [TRIES]
+### STEP 17.1 [THEORY]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Implement TRIE (INSERT) (SEARCH) (STARTSWITH) | |
+
+### STEP 17.2 [THEORY AND PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Implement Trie – 2 (Prefix Tree) | |
+| Longest String with All Prefixes | |
+| Number of Distinct Substrings in a String | |
+| Bit PreRequisites for TRIE Problems | |
+| Maximum XOR of two numbers in an array | |
+| Maximum XOR With an Element From Array | |
+
+## STEP 18 [STRINGS HARD PROBLEMS AND STANDARD ALGO]
+### STEP 18.1 [HARD PROBLEMS]
+| Topic | My Contribiton |
+| :---: | :---: |
+| Minimum number of bracket reversals needed to make an expression balanced | |
+| Count and say | |
+| Hashing In Strings (Theory) | |
+| Rabin Karp | |
+| Z-Function | |
+| KMP algo / LPS(pi) array | |
+| Shortest Palindrome | |
+| Longest happy prefix | |
+| Count palindromic subsequence in given string | |
+
+
+
+
+
+
 
