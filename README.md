@@ -1,16 +1,18 @@
+## SHEET CREDITS
+Reference : [Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 ## STEP 1 [LEARN THE BASICS]
 ### STEP 1.1 [THINGS TO KNOW IN JAVA]
 | Topic | My Contribution |
 | :---: | :---: |
-| User Input/Output | |
-| Data Types | |
-| If Else Statements | |
-| Switch Statements | |
-| What are arrays, strings? | |
-| For Loops | |
-| While Loops | |
-| Functions (Pass by Reference and Value) | |
-| Time Complexity | | 
+| User Input/Output |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-1.md) |
+| Data Types |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-2.md) |
+| If Else Statements |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-3.md) |
+| Switch Statements |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-4.md) |
+| What are arrays, strings? |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-5.md) |
+| For Loops |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-6.md) |
+| While Loops |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-7.md) |
+| Functions (Pass by Reference and Value) |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-8.md) |
+| Time Complexity |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.1/1.1-9.md) | 
 
 ### STEP 1.2 [BUILD UP LOGICAL THINKING]
 | Pattern | My Contribution |
