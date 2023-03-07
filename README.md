@@ -17,50 +17,28 @@ Reference : [Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z
 ### STEP 1.2 [BUILD UP LOGICAL THINKING]
 | Pattern | My Contribution |
 | :---: | :---: | 
-| ![image](https://user-images.githubusercontent.com/85074195/220153631-2f5baf85-ab9e-4a6f-a4d8-39b6644723ed.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220153934-1f4a4540-352a-4be1-a9de-3af74de2a853.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220153973-f52147aa-727c-4adb-a1c4-2c968eeba91d.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154002-72f58c68-b30b-4297-b5b4-b3fecc3c0a05.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154040-c36be3a7-4d78-49be-8ef1-ede44be2ad5e.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154072-a9861042-f3dc-4d3b-a403-f0b1bb363af2.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154104-5bab302a-be8a-4264-a93b-148f9c437a41.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154135-dd671dbe-78f4-4a15-92d1-d0a26e001a66.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154163-91218f74-5c53-4fab-8170-7e0af99732a9.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154225-2a0ce146-dcde-4e60-afb6-29e78b2c222e.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154256-696d2cfe-3512-442a-aa1c-4b8c200eb9bc.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154277-42e35233-e667-41fd-887f-f8318ed469ac.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154321-0d9360c9-4c31-4c0e-8d79-e76046d7d767.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154346-183032a5-9705-424a-b2ec-1b68f3896405.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154379-bc6154e8-a930-4e77-97e0-19812e8e446b.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154406-5c5516a9-5feb-4a94-be99-b511bd29a14a.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154423-53c3bf49-773a-4d2e-8ac3-67f453b91f64.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154455-a9447176-70f3-4af3-ace9-1940654034e9.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154498-2f89a3f8-2a5b-4ee6-80a3-50ae7d80b37e.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154522-2a34bba1-794a-48d0-a302-97546b8c9c4d.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154549-1792a497-1a4f-4c9e-9d48-62c038e5b8d8.png)
-| |
-| ![image](https://user-images.githubusercontent.com/85074195/220154601-b24eccd8-2b12-448b-ac4e-863b99628cbe.png)
-| |
+| ![image](https://user-images.githubusercontent.com/85074195/220153631-2f5baf85-ab9e-4a6f-a4d8-39b6644723ed.png) |[Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-1.md) |
+| ![image](https://user-images.githubusercontent.com/85074195/220153934-1f4a4540-352a-4be1-a9de-3af74de2a853.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-2.md) |
+| ![image](https://user-images.githubusercontent.com/85074195/220153973-f52147aa-727c-4adb-a1c4-2c968eeba91d.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-3.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154002-72f58c68-b30b-4297-b5b4-b3fecc3c0a05.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-4.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154040-c36be3a7-4d78-49be-8ef1-ede44be2ad5e.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-5.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154072-a9861042-f3dc-4d3b-a403-f0b1bb363af2.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-6.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154104-5bab302a-be8a-4264-a93b-148f9c437a41.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-7.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154135-dd671dbe-78f4-4a15-92d1-d0a26e001a66.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-8.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154163-91218f74-5c53-4fab-8170-7e0af99732a9.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-9.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154225-2a0ce146-dcde-4e60-afb6-29e78b2c222e.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-10.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154256-696d2cfe-3512-442a-aa1c-4b8c200eb9bc.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-11.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154277-42e35233-e667-41fd-887f-f8318ed469ac.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-12.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154321-0d9360c9-4c31-4c0e-8d79-e76046d7d767.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-13.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154346-183032a5-9705-424a-b2ec-1b68f3896405.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-14.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154379-bc6154e8-a930-4e77-97e0-19812e8e446b.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-15.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154406-5c5516a9-5feb-4a94-be99-b511bd29a14a.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-16.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154423-53c3bf49-773a-4d2e-8ac3-67f453b91f64.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-17.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154455-a9447176-70f3-4af3-ace9-1940654034e9.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-18.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154498-2f89a3f8-2a5b-4ee6-80a3-50ae7d80b37e.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-19.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154522-2a34bba1-794a-48d0-a302-97546b8c9c4d.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-20.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154549-1792a497-1a4f-4c9e-9d48-62c038e5b8d8.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-21.md)|
+| ![image](https://user-images.githubusercontent.com/85074195/220154601-b24eccd8-2b12-448b-ac4e-863b99628cbe.png) | [Link](https://github.com/bineethkumar/Striver-DSA-Course-Sheet/blob/main/Step-1/Step-1.2/1.2-22.md)|
 
 ### STEP 1.3 [LEARN JAVA COLLECTIONS]
 | Topic | My Contribution |
